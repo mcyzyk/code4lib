@@ -8,9 +8,9 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: psychiana025
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: # Default is 8em
+home-title-y-padding: 12em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
 # height of the carousel at the bottom of the home page; this is in px, but just enter a number (don't include "px"). Default is 300
@@ -20,7 +20,7 @@ carousel-height: 300
 featured-subjects: # separate by semi-colon(';')
 featured-subjects-max: 5 # set number of top subjects to display if auto generating
 # Same as subjects above. Leave blank for automatically generated locations. Or add locations you'd like to feature. For list see data/places.csv
-featured-locations: # separate by semi-colon(';') 
+featured-locations: Moscow;Spokane # separate by semi-colon(';') 
 featured-locations-max: 3 # set number of top locations to display if auto generating
 
 ##########
